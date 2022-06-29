@@ -1,4 +1,6 @@
-![Banner](Screenshots/EnhancedLogPlugin_Featured.png)
+# WARNING!
+
+This project is forked from MagicConsole with the goal of adapting it for In Game viewing. It is not yet functional!
 
 # UE4 Enhanced Output Log
 
