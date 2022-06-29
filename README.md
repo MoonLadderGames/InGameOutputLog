@@ -1,6 +1,8 @@
 # WARNING!
 
-This project is forked from MagicConsole with the goal of adapting it for In Game viewing. It is not yet functional!
+This plugin is not yet functional.
+
+This project is forked from MagicConsole with the goal of adapting it for In Game viewing.
 
 # UE4 Enhanced Output Log
 
